@@ -3,6 +3,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 
 > List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists](https://github.com/sindresorhus/awesome) thing.
 
+> Initial Version based on diasdavid/awesome-hacking-spots
 ## Index
 
 - [Denmark](#denmark-)
